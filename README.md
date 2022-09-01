@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning English and Javascript.
 - 💞️ I’m looking to collaborate for new magic and beautiful projects.
 - 📫 You can send me a telegram at <a href="https://t.me/Darwiiiin">@darwiiiin</a>
+- 🖥 My personal website: https://darw.it
 
-My personal website: https://darw.it
-Porfolio: https://bit.ly/3asVjwy
 
 
 <!---
