@@ -2,7 +2,10 @@
 - 👀 I’m interested in web3, coding and Ui.
 - 🌱 I’m currently learning English and Javascript.
 - 💞️ I’m looking to collaborate for new magic and beautiful projects.
-- 📫 You can send me a telegram at @darwiiiin
+- 📫 You can send me a telegram at <a href="https://t.me/Darwiiiin">@darwiiiin</a>
+
+My personal website: https://darw.it
+Porfolio: https://bit.ly/3asVjwy
 
 
 <!---
